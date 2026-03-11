@@ -40,7 +40,6 @@ Một đại lý xe muốn xây dựng công cụ định giá xe cũ tự độ
 # BÀI 1 | Họ tên: CAO KHANH | MSSV: 23126016
 # ─────────────────────────────────────────────────────────────
 
-!pip install optuna
 
 import pandas as pd
 import numpy as np
